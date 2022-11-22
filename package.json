@@ -1,4 +1,9 @@
 {
   "name": "@almeidx/empty",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "Empty package - useful for overriding unwanted dependencies",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/almeidx/empty.git"
+  }
 }
